@@ -11,5 +11,9 @@
     "url": "aikorouse"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "file-server": "^2.2.1",
+    "five-server": "^0.3.1"
+  }
 }
